@@ -154,6 +154,9 @@ img[alt="Sass"] {
   width: 150px;
   height: 250px; }
 
+.CV_button {
+  margin: 0 auto; }
+
 [class*="col-"] {
   float: left;
   padding: 10px;
